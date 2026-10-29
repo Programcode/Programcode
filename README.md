@@ -2,9 +2,14 @@
 
 I build AI products and keep them running, under the name **[Pi-Stack](https://pi-stack.org)**.
 
-### DebateLab: [debate.pi-stack.org](https://debate.pi-stack.org)
-An AI debate coach for students. Pick the motion you're preparing, build cases for both sides with cited evidence, then practise against the AI with crossfire drills and timed, scored sparring rounds. It works in English, Spanish and Hungarian.
-*React + Vite · Supabase (Postgres/RLS, Deno Edge Functions) · OpenRouter · Stripe · Vercel*
+### DebateOwl: [debateowl.com](https://debateowl.com)
+AI debate prep and practice for students. Pick the motion you're preparing, build a ready-to-read case for either side with cited evidence, then practise against the AI with crossfire drills and timed, judged sparring rounds. It works in English, Spanish and Hungarian.
+
+<a href="https://debateowl.com"><img src="assets/debateowl.jpg" width="720" alt="DebateOwl home page with the case generator on the motion 'Should schools ban phones?' next to a ready-to-read case"></a>
+
+**[Try it at debateowl.com](https://debateowl.com)** (3-day free trial, then $5/month; the [debate tools](https://debateowl.com/tools) are free) · **[Source on GitHub](https://github.com/Programcode/DebateOwl)** (source-available: run it for personal use, but don't host it publicly)
+
+*React + Vite + TypeScript · Tailwind + Radix · Supabase (Postgres/RLS, Deno Edge Functions) · Claude via OpenRouter · Stripe · Vercel*
 
 ### More I've shipped
 
